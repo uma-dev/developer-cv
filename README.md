@@ -6,7 +6,7 @@ This repository contains a LaTeX Developer CV template for creating a profession
 
 ## Usage
 
-1. Visit the [Overleaf project](https://www.overleaf.com) for this CV template.
+1. Visit the [Overleaf project](https://www.overleaf.com/latex/templates/cv-developer/rdycxzvvnvcc) for this CV template.
 
 2. Click the "Open as Template" button to create your own copy of the project on Overleaf.
 
